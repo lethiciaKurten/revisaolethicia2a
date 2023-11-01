@@ -16,8 +16,10 @@ body{
     font-weight: 400;
     font-size: 20px;
     align-items: center;
-    display: flex;
+    display: flex;  
+}
+
+image{
     padding: 1em;
-    
 }
 
