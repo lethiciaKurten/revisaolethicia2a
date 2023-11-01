@@ -20,6 +20,8 @@ body{
 }
 
 .imagem{
-    padding: center;
+    display: block;
+    margin: auto;
+    width: 50%;
 }
 
