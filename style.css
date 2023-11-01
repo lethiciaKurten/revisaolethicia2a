@@ -13,8 +13,7 @@
 body{
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
-    font-weight: 600;
-    text-decoration: none;
+    font-weight: 400;
 
 }
 
