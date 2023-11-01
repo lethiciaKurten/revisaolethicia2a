@@ -6,7 +6,7 @@
     --preto: #000000;
     --cinza: #474646;
     --cinza-claro: #858585;
-    --fonte-principal:var(--branco)
+    --fonte-principal:"Poppins";
 }
 
 body{
