@@ -16,7 +16,7 @@ body{
     font-size: 20px;
     align-items: center;
     display: inline-block;
-    border: 1px solid var(--branco);
+    border: 5px dotted var(--branco);
 }
 
 .imagem{
