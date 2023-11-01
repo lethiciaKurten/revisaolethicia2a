@@ -15,6 +15,7 @@ body{
     font-family: var(--fonte-principal);
     font-weight: 400;
     font-size: 20px;
+    align-items: center;
     
 }
 
