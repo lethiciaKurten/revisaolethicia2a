@@ -13,9 +13,10 @@ body{
     display: block;
     margin: auto;
     width: 45%;
-    
+
 }
 
 .texto{
     text-align: right;
+    line-height: 1.5;
 }
