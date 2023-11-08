@@ -6,6 +6,7 @@ body{
     align-items: center;
     display: inline-block;
     border: 5px dotted yellow;
+    color: white;
 }
 
 .imagem{
