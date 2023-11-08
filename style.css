@@ -1,22 +1,11 @@
-:root{
-    --cor-de-fundo: #a5a5a5;
-    --amarelo: #f1ff2b;
-    --laranja: #EB9B00;
-    --azul: #002F52;
-    --preto: #000000;
-    --cinza: #474646;
-    --cinza-claro: #858585;
-    --fonte-principal:"Helvetica";
-}
-
 body{
-    background-color: var(--cor-de-fundo);
-    font-family: var(--fonte-principal);
+    background-color:black ;
+    font-family: "helvetica";
     font-weight: 400;
     font-size: 20px;
     align-items: center;
     display: inline-block;
-    border: 5px dotted var(--amarelo);
+    border: 5px dotted yellow;
 }
 
 .imagem{
@@ -24,4 +13,5 @@ body{
     margin: auto;
     width: 45%;
 }
+
 
