@@ -23,3 +23,8 @@ iframe{
     margin: auto;
     width: 30%
 }
+
+h1{
+    background-color: gray;
+    text-align: center;
+}
