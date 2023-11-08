@@ -7,6 +7,8 @@ body{
     display: inline-block;
     border: 5px dotted yellow;
     color: white;
+    margin: 30px;
+
 }
 
 .imagem{
@@ -14,11 +16,6 @@ body{
     margin: auto;
     width: 45%;
 
-}
-
-.texto{
-    text-align: right;
-    line-height: 1.5;
 }
 
 iframe{
