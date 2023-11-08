@@ -1,6 +1,6 @@
 :root{
     --cor-de-fundo: #a5a5a5;
-    --branco: #f1ff2b;
+    --amarelo: #f1ff2b;
     --laranja: #EB9B00;
     --azul: #002F52;
     --preto: #000000;
@@ -16,8 +16,7 @@ body{
     font-size: 20px;
     align-items: center;
     display: inline-block;
-    border: 5px dotted var(--branco);
-    text-decoration-color: floralwhite;
+    border: 5px dotted var(--amarelo);
 }
 
 .imagem{
