@@ -15,4 +15,15 @@ body{
     width: 45%;
 }
 
+.div
+{
+  width: 100%; 
+  height: 100px;/* Aqui você pode alterar */
+  display: flex;
+}
+.txt{
+  /* A classe do texto */
+  float: right;
+}
+
 
