@@ -17,6 +17,7 @@ body{
     align-items: center;
     display: inline-block;
     border: 5px dotted var(--branco);
+    text-decoration-color: floralwhite;
 }
 
 .imagem{
